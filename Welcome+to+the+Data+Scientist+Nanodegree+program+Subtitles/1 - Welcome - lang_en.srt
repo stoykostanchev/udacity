@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:03,254
+Today, we're using data science
+
+2
+00:00:03,254 --> 00:00:06,830
+to reach people trapped in the most devastating of circumstances.
+
+3
+00:00:06,830 --> 00:00:09,699
+Medical treatments are advancing at a rigorous pace,
+
+4
+00:00:09,699 --> 00:00:13,589
+thanks to a deeper data-driven understanding of the human body.
+
+5
+00:00:13,589 --> 00:00:16,350
+Armed with data, companies are improving
+
+6
+00:00:16,350 --> 00:00:19,970
+user experiences and building better products to power the future.
+
+7
+00:00:19,969 --> 00:00:21,634
+Hi, I'm Josh.
+
+8
+00:00:21,635 --> 00:00:24,540
+And I'm Louis. Data science is bringing together
+
+9
+00:00:24,539 --> 00:00:28,769
+statistics and computer science to solve real-world problems in every industry.
+
+10
+00:00:28,769 --> 00:00:31,379
+You are about to start on an awesome journey.
+
+11
+00:00:31,379 --> 00:00:35,545
+And we're very excited to welcome you to the data science nano degree program.
+
+12
+00:00:35,545 --> 00:00:37,815
+We've created this program to give you the tools
+
+13
+00:00:37,814 --> 00:00:40,750
+and experience to tackle any challenge with data.
+
+14
+00:00:40,750 --> 00:00:43,289
+We've partnered with industry leaders to help you
+
+15
+00:00:43,289 --> 00:00:46,034
+learn the best practices and build amazing projects.
+
+16
+00:00:46,034 --> 00:00:48,479
+Our goal, is to help you master the tools
+
+17
+00:00:48,479 --> 00:00:51,144
+you need to be an industry ready data scientist.
+
+18
+00:00:51,145 --> 00:00:53,180
+Let's do this.
+

@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,140
+At Udacity, we believe in a few things.
+
+2
+00:00:03,140 --> 00:00:05,929
+We believe that learning is a lifelong journey.
+
+3
+00:00:05,929 --> 00:00:10,734
+So we build programs that help you learn cutting-edge skills for jobs of the future.
+
+4
+00:00:10,734 --> 00:00:14,739
+We believe that you learn best by getting your hands dirty with the real work.
+
+5
+00:00:14,740 --> 00:00:18,945
+You become stronger by learning from your experiences and your mistakes.
+
+6
+00:00:18,945 --> 00:00:21,740
+Whether that's through quizzes, projects,
+
+7
+00:00:21,739 --> 00:00:24,529
+discussions with other students or Udacity staff,
+
+8
+00:00:24,530 --> 00:00:26,820
+or researching problems online.
+
+9
+00:00:26,820 --> 00:00:28,945
+Through this Nanodegree program,
+
+10
+00:00:28,945 --> 00:00:31,230
+you will learn the skills you need to develop
+
+11
+00:00:31,230 --> 00:00:33,869
+an intuition for solving problems in the field.
+
+12
+00:00:33,869 --> 00:00:38,459
+We aim to give you the best learning experience by providing the framework,
+
+13
+00:00:38,460 --> 00:00:41,810
+tools and support you need to be successful.
+
+14
+00:00:41,810 --> 00:00:44,905
+If something isn't clear at any point,
+
+15
+00:00:44,905 --> 00:00:46,704
+please reach out in Slack,
+
+16
+00:00:46,704 --> 00:00:49,754
+email, or through the classroom feedback channels.
+
+17
+00:00:49,755 --> 00:00:53,600
+With that said, welcome to the Data Science Nanodegree Program.
+
+18
+00:00:53,600 --> 00:00:56,280
+You're about to embark on an incredible journey,
+
+19
+00:00:56,280 --> 00:00:58,870
+and we're so excited to be joining you.
+
