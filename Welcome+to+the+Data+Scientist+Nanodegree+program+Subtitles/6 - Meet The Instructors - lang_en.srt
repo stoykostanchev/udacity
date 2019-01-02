@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:04,620
-Today, data science is essential to understanding the world.
-
-2
-00:00:04,620 --> 00:00:10,830
-Our experienced instructors will guide you on your journey to become a data scientist.
-
